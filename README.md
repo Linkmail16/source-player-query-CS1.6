@@ -7,7 +7,7 @@ Muestra el nombre, la puntuación y el tiempo jugado de cada jugador.
 Interfaz simple de línea de comandos para una fácil integración en scripts y aplicaciones.
 Compatible con una variedad de juegos que utilizan el motor de Source.
 # Uso
-Clonar el repositorio:
+### Clonar el repositorio:
 ```sh
 https://github.com/Linkmail16/source-player-query-CS1.6
 ```
