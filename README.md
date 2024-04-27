@@ -9,7 +9,7 @@ Compatible con una variedad de juegos que utilizan el motor de Source.
 # Uso
 Clonar el repositorio:
 ```sh
-git clone https://github.com/tu_usuario/source-player-info.git
+[git clone https://github.com/tu_usuario/source-player-info.git](https://github.com/Linkmail16/source-player-query-CS1.6)
 ```
 Ejecutar el script:
 bash
