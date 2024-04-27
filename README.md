@@ -15,11 +15,11 @@ https://github.com/Linkmail16/source-player-query-CS1.6
 ```sh
 python source_player_info.py <dirección_IP_del_servidor> <puerto_del_servidor>
 ```
+Reemplaza `<dirección_IP_del_servidor>` y `<puerto_del_servidor>` con la dirección IP y el puerto del servidor de juegos de Source que deseas consultar.
 ### EJEMPLO:
 ```sh
 python source_player_info.py "45.32.170.143" "27015"
 ```
-Reemplaza `<dirección_IP_del_servidor>` y `<puerto_del_servidor>` con la dirección IP y el puerto del servidor de juegos de Source que deseas consultar.
 * Una vez que hayas ejecutado el script con los parámetros adecuados, verás la información detallada de los jugadores que están jugando en el servidor.
 ```sh
 Nombre: JUNRBT, Puntuación: 4, Tiempo jugado: 20 minutos, 32 segundos
