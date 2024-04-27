@@ -12,10 +12,9 @@ Compatible con una variedad de juegos que utilizan el motor de Source.
 https://github.com/Linkmail16/source-player-query-CS1.6
 ```
 ### Ejecutar el script:
-bash
-Copy code
-cd source-player-info
+```sh
 python source_player_info.py <dirección_IP_del_servidor> <puerto_del_servidor>
+```
 Reemplaza <dirección_IP_del_servidor> y <puerto_del_servidor> con la dirección IP y el puerto del servidor de juegos de Source que deseas consultar.
 Visualizar la información de los jugadores:Una vez que hayas ejecutado el script con los parámetros adecuados, verás la información detallada de los jugadores que están jugando en el servidor de juegos de Source.
 Ejemplo
