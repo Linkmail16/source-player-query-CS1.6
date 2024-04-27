@@ -1,6 +1,6 @@
 # source-player-query-CS1.6
 Herramienta que te permite obtener información detallada sobre los jugadores que están jugando en servidores de juegos basados en el motor de Source, como Counter-Strike: Global Offensive, Team Fortress 2, y otros.
-# ESPAÑOL
+# ES
 ### Características
 Consulta rápida de los jugadores en un servidor de juegos de Source.
 Muestra el nombre, la puntuación y el tiempo jugado de cada jugador.
@@ -15,8 +15,8 @@ https://github.com/Linkmail16/source-player-query-CS1.6
 ```sh
 python source_player_info.py <dirección_IP_del_servidor> <puerto_del_servidor>
 ```
-Reemplaza <dirección_IP_del_servidor> y <puerto_del_servidor> con la dirección IP y el puerto del servidor de juegos de Source que deseas consultar.
-Visualizar la información de los jugadores:Una vez que hayas ejecutado el script con los parámetros adecuados, verás la información detallada de los jugadores que están jugando en el servidor de juegos de Source.
+Reemplaza `<dirección_IP_del_servidor>` y `<puerto_del_servidor>` con la dirección IP y el puerto del servidor de juegos de Source que deseas consultar.
+* Una vez que hayas ejecutado el script con los parámetros adecuados, verás la información detallada de los jugadores que están jugando en el servidor de juegos de Source.
 Ejemplo
 bash
 Copy code
