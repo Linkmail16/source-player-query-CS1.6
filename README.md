@@ -8,9 +8,9 @@ Interfaz simple de línea de comandos para una fácil integración en scripts y 
 Compatible con una variedad de juegos que utilizan el motor de Source.
 # Uso
 Clonar el repositorio:
-bash
-Copy code
+```sh
 git clone https://github.com/tu_usuario/source-player-info.git
+```
 Ejecutar el script:
 bash
 Copy code
