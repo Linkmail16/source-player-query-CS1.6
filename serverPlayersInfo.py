@@ -33,7 +33,7 @@ def send_source_query(server_address, server_port):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-        message_hex = "ffffffff553604445f"
+        message_hex = "ffffffff5500000000"
 
         message = binascii.unhexlify(message_hex)
 
